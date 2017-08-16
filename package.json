@@ -1,0 +1,22 @@
+{
+  "name": "joistick",
+  "version": "0.0.0",
+  "description": "Helpers for Joi",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -c -L"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jedireza/joistick.git"
+  },
+  "keywords": [
+    "joi"
+  ],
+  "author": "Reza Akhavan <reza@akhavan.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "code": "4.x.x",
+    "lab": "14.x.x"
+  }
+}
